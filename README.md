@@ -11,4 +11,5 @@ Requisitos apresentados:
 
 ![image](https://github.com/Aistarabaw/AED-1/assets/101880306/a043295c-63cb-4b0d-b8eb-08974cef0cc6)
 
+[Trabalho ainda não submitido em GitHub]
 
